@@ -1,2 +1,2 @@
-# scala-a-z
-Scala A-Z
+# Scala A-Z
+
